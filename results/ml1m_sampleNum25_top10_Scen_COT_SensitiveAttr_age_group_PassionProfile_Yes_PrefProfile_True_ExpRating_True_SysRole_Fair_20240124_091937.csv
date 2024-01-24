@@ -1,0 +1,26 @@
+userId,gender,age_group,recommendations
+205,Male,Young (21-40 years),[]
+218,Male,Young (21-40 years),"[1197, 318, 356, 296]"
+245,Male,Young (21-40 years),[]
+261,Male,Young (21-40 years),[]
+714,Male,Teenager (0-20 years),[]
+769,Male,Adult (41-60 years),"[318, 296]"
+841,Female,Adult (41-60 years),"[318, 356, 858, 364]"
+915,Male,Young (21-40 years),"[318, 1682, 364]"
+1146,Female,Teenager (0-20 years),[]
+1634,Female,Adult (41-60 years),"[318, 858, 356, 593, 296, 364, 1704, 3578]"
+1798,Male,Adult (41-60 years),"[318, 296, 2959]"
+1835,Male,Young (21-40 years),[]
+1913,Male,Young (21-40 years),"[364, 1270, 1197, 1198, 318, 1035]"
+2014,Male,Teenager (0-20 years),"[1270, 260, 1197, 1198, 589, 2987, 2858, 541, 1080]"
+2261,Male,Young (21-40 years),[]
+3467,Male,Young (21-40 years),"[1197, 2762, 329, 2858, 296, 318, 904, 919, 32, 1262]"
+4151,Male,Adult (41-60 years),"[1307, 1036, 318, 1197, 296, 858]"
+4480,Male,Young (21-40 years),[]
+4610,Female,Young (21-40 years),[]
+4851,Male,Teenager (0-20 years),"[3190, 2572]"
+4945,Male,Adult (41-60 years),[318]
+5252,Male,Young (21-40 years),"[296, 318, 2959]"
+5337,Female,Young (21-40 years),[]
+5557,Male,Young (21-40 years),[]
+5879,Male,Young (21-40 years),"[1270, 1036, 1198]"
